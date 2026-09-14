@@ -602,8 +602,8 @@
       }
     },
     "optionkrafter": {
-      "sha": "f9571fc25fe32b79a65bf11d61c1934bb409b561",
-      "version": "1.0.0",
+      "sha": "4248230ab1e14c1fd08486a7e93b2b3fdeffea53",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {

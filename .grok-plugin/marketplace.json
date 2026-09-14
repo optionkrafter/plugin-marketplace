@@ -551,15 +551,15 @@
     },
     {
       "name": "optionkrafter",
-      "description": "OptionKrafter options backtesting. Run a historical backtest of 13 strategies including the wheel on All US tickers \u2014 real option chains, minute by minute since April 2023 \u2014 and read the realistic and pure-mid results back in chat. Sign in with your OptionKrafter account on first connect.",
+      "description": "OptionKrafter options backtesting. Run a historical backtest of 13 strategies including the wheel on All US tickers \u2014 real option chains, minute by minute since April 2023 \u2014 and read the realistic result, with the pure-mid reference, back in chat. Sign in with your OptionKrafter account on first connect.",
       "category": "finance",
       "source": {
         "source": "url",
         "url": "https://github.com/optionkrafter/agent-plugin.git",
-        "sha": "f9571fc25fe32b79a65bf11d61c1934bb409b561"
+        "sha": "4248230ab1e14c1fd08486a7e93b2b3fdeffea53"
       },
       "homepage": "https://optionkrafter.com/learn/connect",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "OptionKrafter (SynapseSkytech LLC)"
       },
